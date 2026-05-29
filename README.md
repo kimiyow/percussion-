@@ -10,7 +10,7 @@ Sistema interdisciplinario que captura las vibraciones de 10 instrumentos de per
 
 | Archivo | Descripción |
 |---|---|
-| `percusion_main.c` | Firmware principal del ESP32 : detección de golpes y transmisión serial |
+| `main.c` | Firmware principal del ESP32 : detección de golpes y transmisión serial |
 | `diagnostico_piezos.c` | Firmware de diagnóstico : lectura ADC cruda sin clasificaciones |
 | `touchdesigner_piezos.py` | Script Python para el Serial DAT de TouchDesigner |
 
